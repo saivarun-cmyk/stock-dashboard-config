@@ -71,6 +71,35 @@ INDIAN_STOCKS = {
     "Lupin": {"symbol": "LUPIN.NS", "sector": "Pharma"},
     "Laurus Labs": {"symbol": "LAURUSLABS.NS", "sector": "Pharma"},
     "NIFTY 50": {"symbol": "^NSEI", "sector": "Index"},
+    "Coforge": {
+        "symbol": "COFORGE.NS",
+        "sector": "IT"
+    },
+    "OFSS": {
+        "symbol": "OFSS.NS",
+        "sector": "IT"
+    },
+    "LTM": {
+        "symbol": "LTIM.NS",
+        "sector": "IT"
+    },
+    "Ashok Leyland": {
+        "symbol": "ASHOKLEY.NS",
+        "sector": "Auto"
+    },
+    "ICICI Bank": {
+        "symbol": "ICICIBANK.NS",
+        "sector": "Banking"
+    },
+    "Force Motors": {
+        "symbol": "FORCEMOT.NS",
+        "sector": "Auto"
+    },
+    "Titan": {
+        "symbol": "TITAN.NS",
+        "sector": "Consumer"
+    },
+
 }
 
 USA_STOCKS = {
